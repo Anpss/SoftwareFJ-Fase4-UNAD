@@ -1,0 +1,3 @@
+[2026-11-18 14:19:35] [INFO] [Cliente] -> Cliente registrado correctamente: Cliente [CLI-001] - Ana Maria Gomez | Correo: ana.gomez@correo.com | Estado: Activo
+[2026-11-18 14:19:35] [ERROR] [MainPrueba] -> Error de validación en el campo 'correo': El correo 'correo-sin-arroba.com' no tiene un formato válido.
+[2026-11-18 14:19:35] [ERROR] [MainPrueba] -> Error de validación en el campo 'telefono': Debe contener entre 7 y 15 dígitos numéricos.
