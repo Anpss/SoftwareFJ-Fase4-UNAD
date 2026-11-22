@@ -4,6 +4,7 @@ from utilidades.excepciones import ErrorSistemaFJ
 from modelos.cliente import Cliente
 from modelos.servicio import ReservaSala
 
+
 def ejecutar_simulacion():
     """
     Ejecuta 10 operaciones completas sobre los módulos disponibles (Clientes y Servicios),
